@@ -1,0 +1,62 @@
+# Added previous-year questions (English cleaned)
+
+- 2012 - Q201: A simple parity check will always detect which of the following errors?
+- 2012 - Q202: Two coupled coils have self-inductances of 4 mH and 9 mH. If the coefficient of coupling is 0.5, their mutual inductance is:
+- 2012 - Q203: Which antenna is commonly employed for television reception?
+- 2012 - Q204: Which oscillator offers the best frequency stability and accuracy among these choices?
+- 2012 - Q205: Which logic family is generally the fastest among TTL, ECL and CMOS families?
+- 2012 - Q206: An optical pyrometer is mainly used to measure:
+- 2012 - Q207: The term MODEM stands for a system that performs:
+- 2012 - Q208: Which of the following is volatile memory?
+- 2012 - Q209: In conventional analog television transmission, the video signal is commonly transmitted using:
+- 2012 - Q210: In a communication satellite system, many telephone channels are traditionally combined using:
+- 2012 - Q211: In semiconductor/electronic terminology, CCD stands for:
+- 2012 - Q212: The short-circuit test of a transformer is mainly used to determine:
+- 2015 - Q213: A TRIAC can be considered approximately as:
+- 2015 - Q214: A rotameter is used to measure:
+- 2015 - Q215: A servo-controlled voltage stabilizer operates primarily using:
+- 2015 - Q216: In a microprocessor-based system, debugging means:
+- 2015 - Q217: A solar cell is a:
+- 2015 - Q218: An analog voltmeter has a sensitivity of 50,000 Ω/V. Its full-scale movement current is:
+- 2015 - Q219: The minimum number of flip-flops required to build a MOD-17 binary counter is:
+- 2015 - Q220: Which AC bridge is commonly used to measure capacitance and dielectric loss?
+- 2016 - Q221: If a sine wave is applied to an op-amp comparator, the output is approximately a:
+- 2016 - Q222: How many bits are used to represent one decimal digit in BCD?
+- 2016 - Q223: The standard noise margin of conventional TTL logic is approximately:
+- 2016 - Q224: A common circuit used to debounce a mechanical switch is a:
+- 2016 - Q225: The data bus width of the classic 8051 microcontroller is:
+- 2016 - Q226: Which gate is especially useful for checking parity?
+- 2016 - Q227: Three unequal resistors are connected in parallel across the same voltage. Which resistor dissipates the greatest power?
+- 2016 - Q228: What is the minimum number of flip-flops required for a binary counter to divide a frequency by at least 40?
+- 2017 - Q229: If a current of 1 µA flows through a conductor, approximately how many electrons pass a point each second?
+- 2017 - Q230: The electrolyte commonly used in a nickel-cadmium rechargeable cell is:
+- 2017 - Q231: For capacitors connected in series, which quantity is the same on every capacitor after charging?
+- 2017 - Q232: How many 2K × 8 ROM chips are required to construct a 16K × 8 memory?
+- 2017 - Q233: The ALE signal of an 8051 is mainly used to:
+- 2017 - Q234: A 10-bit ADC has an input range of 0 to 10 V. Its ideal voltage resolution is approximately:
+- 2017 - Q235: A standard RC phase-shift oscillator normally uses how many RC phase-shift sections?
+- 2017 - Q236: For an SCR, the latching current is normally:
+- 2019 - Q237: Which of the following is an impact printer?
+- 2019 - Q238: Which metal has the highest electrical conductivity at room temperature among these choices?
+- 2019 - Q239: Which insulating material is especially suitable for relatively high-temperature electrical applications?
+- 2019 - Q240: Cells are rated 1.5 V, 2 Ah each. Which arrangement gives a 6 V, 4 Ah battery?
+- 2019 - Q241: A phase-locked loop (PLL) can be used to demodulate:
+- 2019 - Q242: A pulse train has 200 µs ON time and 800 µs OFF time. Its duty cycle is:
+- 2019 - Q243: The decimal equivalent of hexadecimal AB is:
+- 2019 - Q244: The sweep generator in a conventional CRO produces a:
+- 2021 - Q245: A smart tweezer is mainly used to measure the values of:
+- 2021 - Q246: For Sn63/Pb37 solder paste, a typical peak temperature in a reflow oven is approximately:
+- 2021 - Q247: The RMS thermal-noise voltage of a resistor is proportional to:
+- 2021 - Q248: For a radar using the basic radar range relation, doubling the maximum detection range requires the peak transmitted power to increase by approximately:
+- 2021 - Q249: The commonly specified operating-temperature range for military-grade electronic components is approximately:
+- 2021 - Q250: A good voltage-buffer amplifier should ideally have:
+- 2021 - Q251: The standard shape of a safety warning sign in a workshop is generally:
+- 2021 - Q252: Three identical 2 V, 5 Ah cells are connected in parallel. The battery rating is:
+- 2023 - Q253: What is meant by hermetic sealing of an electronic component?
+- 2023 - Q254: In a strain gauge, the gauge factor represents:
+- 2023 - Q255: A major advantage of differential signalling in high-speed digital links is:
+- 2023 - Q256: An ideal voltage source has an internal resistance of:
+- 2023 - Q257: A JFET is best represented as a:
+- 2023 - Q258: The current gain of a BJT falls at high frequencies mainly because of:
+- 2023 - Q259: A filter with a roll-off of 60 dB/decade must be at least what order?
+- 2023 - Q260: If a capacitor C is charged by a constant current I, its voltage changes at the rate:
